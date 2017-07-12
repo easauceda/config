@@ -1,0 +1,6 @@
+PKief.material-icon-theme
+PeterJausovec.vscode-docker
+casualjim.theme-desertex
+doublefint.pgsql
+lukehoban.Go
+mauve.terraform
