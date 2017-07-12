@@ -8,7 +8,7 @@ My personal configuration files for various applications.
 
 **Usage**
 
-
+Symlink `com.googlecode.iterm2.plist` to `/Users/[user]/Library/Preferences/com.googlecode.iterm2.plist`
 
 ## VS Code
 
